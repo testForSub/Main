@@ -1,0 +1,3 @@
+[submodule "mainsubmodule"]
+	path = mainsubmodule
+	url = https://github.com/testForSub/MainSubModule
